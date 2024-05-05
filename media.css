@@ -1,0 +1,468 @@
+
+@media (max-width:1025px) {
+    .section-p1{
+        padding:40px 40px;
+    }
+    .hero_block {
+        margin-left: 60%;
+    }
+
+    #product1 .pro{
+        margin:20px;
+    }
+    #product1 h2{
+       font-size: 30px;
+        line-height: 27px;
+    }
+    #product2 .pro{
+        margin:20px;
+    }
+    #product2 h2{
+       font-size: 30px;
+        line-height: 27px;
+    }
+    #banner{
+        height:60vh;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .banner-col{
+     margin-left: 20px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    #banner img{
+        height: 60%;
+    }
+    #banner p{
+      font-size: 15px;
+    }
+    #product1{
+        padding-left: 150px;
+        padding-right: 50px;
+    }
+    .pro p{
+        font-size: 15px;
+    }
+    .news {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    .box {
+        padding: 10px;
+    }
+    .news-about {
+        width: 400px;
+    }
+    .box p{
+        font-size: 15px;
+    }
+    .box h3{
+        font-size: 17px;
+    }
+    .news-img {
+        width: 150px;
+    }
+    .news{
+        margin: 30px;
+    }
+    .news-link {
+        font-size: 12px;
+    }
+    .contact_section {
+         padding: 0px 200px; 
+    }
+    footer {
+        padding-left: 100px;
+        padding-right: 100px;
+
+    }
+    .col-install{
+        margin-right: 22%;
+    }
+}
+@media (max-width:799px) {
+    .section-p1{
+        padding:40px 40px;
+    }
+    .hero_block {
+        margin-left: 70%;
+    }
+    #hero {
+        background-image:url(/img/hero2.png); 
+      }
+    #navbar {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        position: fixed;
+        top: 0;
+        right: -300px;
+        height: 100vh;
+        width: 300px;
+        background-color: #E3E6F9;
+        box-shadow: 0 40px 60px rgba(0,0,0,0.1);
+        padding: 80px 0 0 10px;
+        transition: 0.3s;
+    }
+   
+    #header img{
+        background-position: top 5% right 50%;
+    }
+    #product1 .pro-container{
+        justify-content:center;
+    }
+    #product1 .pro{
+        margin:20px;
+    }
+    #product1 h2{
+       font-size: 30px;
+        line-height: 27px;
+    }
+    #banner{
+        height:60vh;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .banner-col{
+     margin-left: 20px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    #banner img{
+        height: 40%;
+    }
+    #banner p{
+      font-size: 15px;
+    }
+    #product1{
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .pro p{
+        font-size: 15px;
+    }
+    .news {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .box {
+        padding: 10px;
+    }
+    .news-about {
+        width: 400px;
+    }
+    .box p{
+        font-size: 15px;
+    }
+    .box h3{
+        font-size: 17px;
+    }
+    .news-img {
+        width: 150px;
+    }
+    .news{
+        margin: 30px;
+    }
+    .news-link {
+        font-size: 12px;
+    }
+    .contact_section {
+         padding: 0px 30px; 
+    }
+    footer {
+        padding-left: 100px;
+        padding-right: 100px;
+
+    }
+    .col-install{
+        margin-right: 22%;
+    }
+}
+    
+
+@media (max-width:477px) {
+    .section-p1 {
+        padding: 20px;
+    }
+
+    #product1 .pro-container{
+        justify-content:center;
+    }
+    #hero {
+        background-image:url(/img/hero3.png); 
+      }
+    #product1 .pro{
+        margin:20px;
+    }
+    #product1 h2{
+       font-size: 22px;
+        line-height: 27px;
+    }
+    p{
+        font-size: 15px;
+    }
+    #banner{
+        height:55vh;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .banner-col{
+     margin-left: 50px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    #banner img{
+        height: 25%;
+    }
+    #banner p{
+      font-size: 9px;
+    }
+    #banner h3{
+        font-size: 13px;
+    }
+    #banner h2{
+        font-size: 17px;
+    }
+    #banner button{
+        font-size: 11px;
+        padding: 1px 30px;
+    }
+    #product1{
+        padding-left: 5px;
+        padding-right: 5px;
+      
+    }
+    #category{
+        flex-wrap: wrap;
+        gap: 5px;
+    }
+    .pro p{
+        font-size: 14px;
+    }
+    .box {
+        padding: 2px;
+    }
+    .news-about {
+        width: 200px;
+    }
+    .box p{
+        font-size: 8px;
+    }
+    .box h3{
+        font-size: 10px;
+    }
+    .news-img {
+        width: 80px;
+    }
+    .news{
+        margin: 30px;
+    }
+    .news-link {
+        font-size: 8px;
+    }
+    .news h2{
+        font-size: 20px;
+     }
+    .contact_section {
+         padding: 0px 30px; 
+    }
+    footer {
+        padding-left: 100px;
+        padding-right: 100px;
+
+    }
+    .col-install{
+        margin-right: 22%;
+    }
+    .contact_section h2 {
+        font-size: 20px;
+    }
+  
+}   
+@media (max-width:376px) {
+    .section-p1 {
+        padding: 20px;
+    }
+    .section-m1 {
+        margin: 10px 0px;
+    }
+    #hero {
+        background-image:url(/img/hero3.png); 
+      }
+      .hero_block {
+        margin-left: 30%;
+    }
+    #product1 .pro-container{
+        justify-content:center;
+    }
+    #product1 .pro{
+        margin:20px;
+    }
+    #product1 h2{
+       font-size: 22px;
+        line-height: 27px;
+    }
+    p{
+        font-size: 15px;
+    }
+    #banner{
+        height:60vh;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .banner-col{
+     margin-left: 30px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    #banner img{
+        height: 26%;
+    }
+    #banner p{
+      font-size: 9px;
+    }
+    #banner h3{
+        font-size: 10px;
+    }
+    #banner h2{
+        font-size: 17px;
+    }
+    #banner button{
+        font-size: 11px;
+        padding: 5px 5px;
+    }
+    #product1{
+        padding-left: 5px;
+        padding-right: 5px;
+      
+    }
+    #category{
+        flex-wrap: wrap;
+        gap: 5px;
+    }
+    .pro p{
+        font-size: 14px;
+    }
+    .box {
+        padding: 2px;
+    }
+    .news-about {
+        width: 170px;
+    }
+    .box p{
+        font-size: 8px;
+    }
+    .box h3{
+        font-size: 10px;
+    }
+    .news-img {
+        width: 50px;
+    }
+    .news{
+        margin: 30px;
+    }
+    .news-link {
+        font-size: 5px;
+    }
+    .news h2{
+        font-size: 15px;
+     }
+    .contact_section {
+         padding: 0px 30px; 
+    }
+    footer {
+        padding-left: 100px;
+        padding-right: 100px;
+
+    }
+    .col-install{
+        margin-right: 22%;
+    }
+    .contact_section h2 {
+        font-size: 20px;
+    }
+    .news h2 {
+
+        margin-bottom: 10px;
+    }
+  
+}   
+
+
+
+
+@media (max-width:1025px) {
+
+    #product2 .pro{
+        margin:20px;
+    }
+    #product2 h2{
+       font-size: 30px;
+        line-height: 27px;
+    }
+    #product2 {
+        text-align: center;
+        padding-left: 100px;
+        padding-right: 100px;
+      }
+}
+@media (max-width:799px) {
+  
+    #product2 .pro-container{
+        justify-content:center;
+    }
+    #product2 .pro{
+        margin:20px;
+    }
+    #product2 h2{
+       font-size: 30px;
+        line-height: 27px;
+    }
+    #product2 {
+        text-align: center;
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+}
+    
+
+@media (max-width:477px) {
+    #product2.pro-container{
+        justify-content:center;
+    }
+    #product2 .pro{
+        margin:20px;
+    }
+    #product2 h2{
+       font-size: 22px;
+        line-height: 27px;
+    }
+    
+  
+}   
+@media (max-width:376px) {
+   
+    #product2 .pro-container{
+        justify-content:center;
+    }
+    #product2 .pro{
+        margin:20px;
+    }
+    #product2 h2{
+       font-size: 22px;
+        line-height: 27px;
+    }
+    
+  #product2 {
+    text-align: center;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  
+}   
