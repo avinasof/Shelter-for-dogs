@@ -4,14 +4,14 @@
 Тема проекта : Приют для собак
 
 Ниже представлены скриношы выполненной работы
-![image](https://github.com/avinasof/Shelter/assets/151094580/22b9d7e0-6867-4ef8-b138-b828f749b58b)
+![image](https://github.com/avinasof/Shelter-for-dogs/assets/151094580/ffe882d1-7e16-4aca-a191-89694bf6da62)
+![image](https://github.com/avinasof/Shelter-for-dogs/assets/151094580/3f6c07de-039a-4c15-a2c1-6891ef4f3e56)
 Фотографии собак и их описание
-![image](https://github.com/avinasof/Shelter/assets/151094580/cbbe87ee-ef32-43f9-910a-f58b739eaf91)
-
+![image](https://github.com/avinasof/Shelter-for-dogs/assets/151094580/1d6b56ca-744f-427e-9c4e-7af300809f05)
 Далее баннер с текстом о призыве забрать собачку
-![image](https://github.com/avinasof/Shelter/assets/151094580/fd12ddb7-73cc-4b6b-920b-5020080f46df)
+![image](https://github.com/avinasof/Shelter-for-dogs/assets/151094580/d23d68e5-929d-48e5-a2a6-2f34cbe29c29)
 Новости сайта
-![image](https://github.com/avinasof/Shelter/assets/151094580/bab499e5-9dfa-48dc-9ad6-7321b42cfa0d)
+![image](https://github.com/avinasof/Shelter-for-dogs/assets/151094580/fd837587-ec99-478d-b682-2ef8c08d463e)
 И наконец формочка для связи и футер
 ![image](https://github.com/avinasof/Shelter-for-dogs/assets/151094580/20df77fb-26a2-41d8-8b73-12ed8bcbb917)
 вторая страница с собачками. Можно перейти, нажимая на "Взять собачку" в меню.
